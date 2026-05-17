@@ -47,6 +47,10 @@ campus-event-system/
 | feature/config | 配置管理方案编写 |
 | feature/summary | 总结报告编写 |
 
+## 合并责任人
+
+所有分支合并（feature → dev、dev → main）均由 yangyuxuan 负责执行。
+
 ## 提交规范
 
 - `feat: 描述` — 新增内容
